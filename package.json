@@ -1,0 +1,15 @@
+{
+  "name": "urltitle",
+  "version": "0.1.0",
+  "description": "Simple express app that scrapes a url and returns its title",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ohdeerdog",
+  "license": "SEE LICENSE IN LICENSE file",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "html-metadata": "^1.6.3"
+  }
+}
